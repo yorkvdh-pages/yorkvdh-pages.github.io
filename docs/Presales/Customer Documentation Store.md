@@ -1,0 +1,1 @@
+All proposed and signed documentation should be stored in the customer’s document store . this store should be accessible both by the customer and internally. 
