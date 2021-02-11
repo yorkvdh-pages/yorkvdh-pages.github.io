@@ -6,9 +6,9 @@ sort: 1
 
 ## Presales
 - <input type="checkbox"  /> [Advisor Estimate](/docs/Presales/Advisor_Estimate.html)
-- [ ] [Ready Estimate](/docs/Presales/Ready%20Estimate.html)
-- [ ] [Operate Estimate](/docs/Presales/Operate%20Estimate.html)
-- [ ] Customer Documentation Store
+- <input type="checkbox"  /> [Ready Estimate](/docs/Presales/Ready%20Estimate.html)
+- <input type="checkbox"  /> [Operate Estimate](/docs/Presales/Operate%20Estimate.html)
+- <input type="checkbox"  /> Customer Documentation Store
 
 ## Admin
 
