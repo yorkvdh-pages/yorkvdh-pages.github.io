@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Docs folder
+# Cloud Custodian Service transition
 
 {% include list.liquid all=true %}
