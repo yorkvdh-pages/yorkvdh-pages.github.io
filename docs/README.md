@@ -5,7 +5,7 @@ sort: 1
 # Cloud Custodian Service transition
 
 ## Presales
-- [x] [Advisor Estimate](\Presales\Advisor_Estimate.md)
+- [x] [Advisor Estimate](/docs/Presales/Advisor_Estimate.html)
 - [ ] Ready Estimate
 - [ ] Operate Estimate
 - [ ] Customer Documentation Store
