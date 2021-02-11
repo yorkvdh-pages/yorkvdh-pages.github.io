@@ -1,0 +1,1 @@
+By default a PO is created for the project (not for assessments)

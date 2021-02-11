@@ -1,0 +1,1 @@
+A mail is sent to th PO of the Cloud Custodian Tribe to check for availability and who will take the project/assessment.
