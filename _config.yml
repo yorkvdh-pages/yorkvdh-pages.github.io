@@ -2,7 +2,7 @@ title: Cloud Custodian Services
 lang: en
 
 
-remote_theme: pages-themes/cayman
+remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
