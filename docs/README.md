@@ -6,7 +6,7 @@ sort: 1
 
 ## Presales
 - [x] [Advisor Estimate](/docs/Presales/Advisor_Estimate.html)
-- [ ] Ready Estimate
+- [ ] [Ready Estimate](/docs/Presales/Ready%20Estimate.html)
 - [ ] Operate Estimate
 - [ ] Customer Documentation Store
 
