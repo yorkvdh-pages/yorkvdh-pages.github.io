@@ -1,3 +1,20 @@
 title: Cloud Custodian Services
+lang: en
+
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
 
 theme: jekyll-theme-cayman
