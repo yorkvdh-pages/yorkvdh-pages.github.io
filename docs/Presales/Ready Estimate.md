@@ -5,5 +5,5 @@ The estimate is based (items can be excluded or added) on the following items :
 -	Setup of in scope use case(s)
     -	Setup VM (OS)
     -	Lift/shift VM
-    
-Pricing is based on T&M/profiles.
+
+> Pricing is based on T&M/profiles.

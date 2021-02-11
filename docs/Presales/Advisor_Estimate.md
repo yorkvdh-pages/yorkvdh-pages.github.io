@@ -4,6 +4,8 @@ Arxus guides the customer to the cloud starting with the Plan stage. This stage 
 
 
 
-Please note that documenting the different workshops needs to be added as a separate estimate  to the cost calculation sheet.
-Duration and pricing of the different workshops can be found here.
-Solution Assessments can be co-funded via Microsoft. 
+> Please note that documenting the different workshops needs to be added as a separate estimate  to the cost calculation sheet.
+
+> Duration and pricing of the different workshops can be found here.
+
+> Solution Assessments can be co-funded via Microsoft. 
