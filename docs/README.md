@@ -23,8 +23,8 @@ Following steps will be completed
 
 - <input type="checkbox"  /> [Assign PO / CSM](/docs/Admin/PO%20CSM.html)
 - <input type="checkbox"  /> [Create a project in SNOW](/docs/Admin/SNOW.html)
-- <input type="checkbox"  /> [Request for Planning Architect/Engineer](/docs/TS%20Code.html)
-- <input type="checkbox"  /> [Advisor Estimate](/docs/Admin/planning.html)
+- <input type="checkbox"  /> [Create TS code for project/assessment](/docs/Admin/TS%20Code.html)
+- <input type="checkbox"  /> [Request for Planning Architect/Engineer](/docs/Admin/planning.html)
 - <input type="checkbox"  /> [Customer Documentation Store](/docs/Admin/Customer%20Documentation%20Store.html)
 
 ## Plan
